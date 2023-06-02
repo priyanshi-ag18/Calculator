@@ -142,6 +142,8 @@
     height: 380px;
     width: 270px;
     border-radius: 4px;
+    margin:auto;
+    margin-top: 70px;
 }
 .calculator{
     margin-left: 10px;
